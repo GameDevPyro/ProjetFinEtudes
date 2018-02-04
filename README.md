@@ -1,8 +1,10 @@
 # ProjetFinEtudes
 
-## Sprint 1
+- [x] Sprint 1
+- [ ] Sprint 2
+- [ ] Sprint 3
 
-### Tutoriel
+## Sprint 1
 
 ![alt text](Screenshots/0.png)
 ![alt text](Screenshots/1.png)
@@ -14,3 +16,6 @@
 ![alt text](Screenshots/7.png)
 ![alt text](Screenshots/8.png)
 ![alt text](Screenshots/9.png)
+
+
+## Sprint 2
