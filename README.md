@@ -5,7 +5,13 @@
 - [ ] [Sprint 3](https://github.com/GameDevPyro/ProjetFinEtudes#sprint-3)
 
 ## Sprint 1
-### [Download](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/GameDevPyro/ProjetFinEtudes/tree/master/Sprint_1)
+
+### Installation
+1. Télécharger le [fichier](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/GameDevPyro/ProjetFinEtudes/tree/master/Sprint_1).
+2. Dézipper le fichier.
+3. Ouvrir Sprint_1.exe
+
+
 ![alt text](Screenshots/0.png)
 ![alt text](Screenshots/1.png)
 ![alt text](Screenshots/2.png)
