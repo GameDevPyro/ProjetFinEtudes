@@ -1,11 +1,11 @@
 # ProjetFinEtudes
 
-- [x] [Sprint 1](https://github.com/GameDevPyro/ProjetFinEtudes#sprint-1)
+- [x] [Sprint 1](https://github.com/GameDevPyro/ProjetFinEtudes#sprint-1) 
 - [ ] [Sprint 2](https://github.com/GameDevPyro/ProjetFinEtudes#sprint-2)
 - [ ] [Sprint 3](https://github.com/GameDevPyro/ProjetFinEtudes#sprint-3)
 
 ## Sprint 1
-
+### [Download](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/GameDevPyro/ProjetFinEtudes/tree/master/Sprint_1)
 ![alt text](Screenshots/0.png)
 ![alt text](Screenshots/1.png)
 ![alt text](Screenshots/2.png)
