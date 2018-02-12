@@ -20,7 +20,7 @@
 ![Tutorial p. 6](Screenshots/5.png)
 ![Tutorial p. 7](Screenshots/6.png)
 ![Tutorial p. 8](Screenshots/7.png)
-![Demo 1/3](Screenshots/0.png)
+![Demo 1/3](Screenshots/8_.png)
 ![Demo 2/3](Screenshots/9.png)
 ![Demo 3/3](Screenshots/10.png)
 
