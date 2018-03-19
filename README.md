@@ -1,7 +1,7 @@
 # ProjetFinEtudes
 
 - [x] [Sprint 1](https://github.com/GameDevPyro/ProjetFinEtudes#sprint-1) 
-- [ ] [Sprint 2](https://github.com/GameDevPyro/ProjetFinEtudes#sprint-2)
+- [x] [Sprint 2](https://github.com/GameDevPyro/ProjetFinEtudes#sprint-2)
 - [ ] [Sprint 3](https://github.com/GameDevPyro/ProjetFinEtudes#sprint-3)
 
 ## Sprint 1
@@ -27,6 +27,12 @@
 
 ## Sprint 2
 
+Dans ce sprint, j'ai simplifié l'art des monstres. Voici quelques exemples:
 
+![Exemple 1](Screenshots/Sprint_2/Iron-Rook.png)
+![Exemple 2](Screenshots/Sprint_2/Meka-Dragon.png)
+![Exemple 3](Screenshots/Sprint_2/Pandakai.png)
+![Exemple 4](Screenshots/Sprint_2/Pouic.png)
+![Exemple 5](Screenshots/Sprint_2/X-Smash-Tree.png)
 
 ## Sprint 3
