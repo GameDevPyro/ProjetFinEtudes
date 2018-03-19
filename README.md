@@ -12,17 +12,17 @@
 3. Ouvrir Sprint_1.exe, en format 1600x900.
 
 
-![Tutorial p. 1](Screenshots/0.png)
-![Tutorial p. 2](Screenshots/1.png)
-![Tutorial p. 3](Screenshots/2.png)
-![Tutorial p. 4](Screenshots/3.png)
-![Tutorial p. 5](Screenshots/4.png)
-![Tutorial p. 6](Screenshots/5.png)
-![Tutorial p. 7](Screenshots/6.png)
-![Tutorial p. 8](Screenshots/7.png)
-![Demo 1/3](Screenshots/8_.png)
-![Demo 2/3](Screenshots/9.png)
-![Demo 3/3](Screenshots/10.png)
+![Tutorial p. 1](Screenshots/Sprint_1/0.png)
+![Tutorial p. 2](Screenshots/Sprint_1/1.png)
+![Tutorial p. 3](Screenshots/Sprint_1/2.png)
+![Tutorial p. 4](Screenshots/Sprint_1/3.png)
+![Tutorial p. 5](Screenshots/Sprint_1/4.png)
+![Tutorial p. 6](Screenshots/Sprint_1/5.png)
+![Tutorial p. 7](Screenshots/Sprint_1/6.png)
+![Tutorial p. 8](Screenshots/Sprint_1/7.png)
+![Demo 1/3](Screenshots/Sprint_1/8_.png)
+![Demo 2/3](Screenshots/Sprint_1/9.png)
+![Demo 3/3](Screenshots/Sprint_1/10.png)
 
 
 ## Sprint 2
