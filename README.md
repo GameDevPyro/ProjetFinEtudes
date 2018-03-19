@@ -35,4 +35,6 @@ Dans ce sprint, j'ai simplifié l'art des monstres. Voici quelques exemples:
 ![Exemple 4](Screenshots/Sprint_2/Pouic.png)
 ![Exemple 5](Screenshots/Sprint_2/X-Smash-Tree.png)
 
+Pour voir le reste, [cliquez ici](https://github.com/GameDevPyro/ProjetFinEtudes/tree/master/Screenshots/Sprint_2)
+
 ## Sprint 3
