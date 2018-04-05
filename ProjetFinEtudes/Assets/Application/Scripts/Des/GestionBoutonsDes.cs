@@ -2,41 +2,32 @@
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
-using UnityEngine.SceneManagement;
 
 public class GestionBoutonsDes : MonoBehaviour {
-	GameObject refGestionDes;
-	Button boutonRelancer;
-	Button boutonConfirmer;
-	Button boutonRedemarrer;
+	GameObject gDes;
+	Button btnRelancer;
+	Button btnConfirmer;
 
 	// Use this for initialization
 	void Start () {
-		refGestionDes = GameObject.Find ("Des").transform.gameObject;
-		boutonRelancer = GameObject.Find("BoutonRELANCER").GetComponent<Button>();
-		boutonConfirmer = GameObject.Find("BoutonOK").GetComponent<Button>();
-		boutonRedemarrer = GameObject.Find ("BoutonRedemarrer").GetComponent<Button> ();
-		boutonRedemarrer.gameObject.SetActive (false);
+		gDes = GameObject.Find ("Des").transform.gameObject;
+		btnRelancer = GameObject.Find("BoutonRELANCER").GetComponent<Button>();
+		btnConfirmer = GameObject.Find("BoutonCONFIRMER").GetComponent<Button>();
 	}
 	
 	// Update is called once per frame
 	void FixedUpdate () {
-		if(refGestionDes.GetComponent<GestionDes>().selectionne == true) {
-			boutonRelancer.interactable = true;
-			boutonConfirmer.interactable = false;
+		if(gDes.GetComponent<GestionDes>().bSelectionne == true) {
+			btnRelancer.interactable = true;
+			btnConfirmer.interactable = false;
 		}
-		if(refGestionDes.GetComponent<GestionDes>().selectionne == false) {
-			boutonRelancer.interactable = false;
-			boutonConfirmer.interactable = true;
+		if(gDes.GetComponent<GestionDes>().bSelectionne == false) {
+			btnRelancer.interactable = false;
+			btnConfirmer.interactable = true;
 		}
-		if(refGestionDes.GetComponent<GestionDes>().lancer >= 3) {
-			boutonRelancer.gameObject.SetActive(false);
-			boutonConfirmer.gameObject.SetActive (false);
-			boutonRedemarrer.gameObject.SetActive (true);
+		if(gDes.GetComponent<GestionDes>().iLancer >= 3) {
+			btnRelancer.gameObject.SetActive(false);
+			btnConfirmer.gameObject.SetActive (false);
 		}
-	}
-
-	public void Redemarrer() {
-		SceneManager.LoadScene (SceneManager.GetActiveScene().buildIndex);
 	}
 }

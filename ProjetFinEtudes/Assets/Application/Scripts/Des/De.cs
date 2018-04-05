@@ -3,29 +3,29 @@ using UnityEngine.UI;
 using System.Collections;
 
 public class De : MonoBehaviour {
-	Button bouton;
+	Button btn;
 
 	[HideInInspector]
-	public bool etatBouton;
+	public bool bEtatBouton;
 	[HideInInspector]
-	public int valeur;
+	public int iValeur;
 	[HideInInspector]
-	public bool relancer;
+	public bool bRelancer;
 
-	public Image Contour;
-	public Faces TypeDe;
+	public Image imgContour;
+	public Faces soTypeDe;
 
 	// Use this for initialization
 	void Start () {
-		bouton = this.GetComponent<Button> ();
-		bouton.onClick.AddListener (Actif);
-		etatBouton = false;
-		relancer = false;
+		btn = this.GetComponent<Button> ();
+		btn.onClick.AddListener (Actif);
+		bEtatBouton = false;
+		bRelancer = false;
 	}
 
 	public void Actif() {
-		etatBouton = !etatBouton;
-		relancer = etatBouton;
-		Contour.gameObject.SetActive (etatBouton);
+		bEtatBouton = !bEtatBouton;
+		bRelancer = bEtatBouton;
+		imgContour.gameObject.SetActive (bEtatBouton);
 	}
 }
