@@ -2,12 +2,12 @@
 
 - [x] [Sprint 1](https://github.com/GameDevPyro/ProjetFinEtudes#sprint-1) 
 - [x] [Sprint 2](https://github.com/GameDevPyro/ProjetFinEtudes#sprint-2)
-- [ ] [Sprint 3](https://github.com/GameDevPyro/ProjetFinEtudes#sprint-3)
+- [x] [Sprint 3](https://github.com/GameDevPyro/ProjetFinEtudes#sprint-3)
 
 ## Sprint 1
 
 ### Installation
-1. Télécharger le [fichier](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/GameDevPyro/ProjetFinEtudes/tree/master/Sprint_1).
+1. Télécharger le [fichier](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/GameDevPyro/ProjetFinEtudes/tree/master/Sprint_1_Standalone).
 2. Dézipper le fichier.
 3. Ouvrir Sprint_1.exe, en format 1600x900.
 
@@ -38,3 +38,8 @@ Dans ce sprint, j'ai simplifié l'art des monstres. Voici quelques exemples:
 Pour voir le reste, [cliquez ici](https://github.com/GameDevPyro/ProjetFinEtudes/tree/master/Screenshots/Sprint_2)
 
 ## Sprint 3
+
+### Installation
+1. Télécharger le [fichier](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/GameDevPyro/ProjetFinEtudes/tree/master/Sprint_3_Standalone).
+2. Dézipper le fichier.
+3. Ouvrir Sprint_1.exe, en format 1600x900.
